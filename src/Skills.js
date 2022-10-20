@@ -1,6 +1,6 @@
 export default function Skills() {
   return (
-    <div class="skill-bars container my-3" id="skills" data-aos="fade-left">
+    <div class="skill-bars container my-3" id="skills" data-aos="zoom-in-up">
       <h1 className="font-weight-bold service-title text-center text-center">
         Skills
       </h1>

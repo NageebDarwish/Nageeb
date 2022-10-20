@@ -2,7 +2,7 @@ export default function HireMe() {
   return (
     <div
       className="hire-me pt-5 text-white text-center d-flex align-items-center justify-content-center flex-column"
-      data-aos="fade-left"
+      data-aos="fade-up-right"
     >
       <h1 className="mb-5">Have Any Project In Mind ?</h1>
       <a
