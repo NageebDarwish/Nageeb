@@ -292,6 +292,24 @@ nav{
   background-color: var(--primary-color);
   z-index: 1;
 }
+.project-4{
+  background-image: url("./assest/Berin/1-min.png");
+  background-position: center;
+  background-size: cover;
+  height: 400px;
+  box-shadow: 1px 1px 8px rgb(168, 168, 168);
+}
+.project-4:hover .overlay{
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0.8;
+  background-color: var(--primary-color);
+  z-index: 1;
+}
 
 .gradient-border {
   --borderWidth: 3px;

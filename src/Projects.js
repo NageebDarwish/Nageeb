@@ -6,10 +6,10 @@ export default function About() {
           <h1 className="font-weight-bold col-md-4 service-title text-center">
             Projects
           </h1>
-          <div className="row gap-3 align-items-center justify-content-center">
+          <div className="d-flex flex-wrap gap-3 align-items-center justify-content-center">
             <a
               href="https://bravoo.online/"
-              className="col-md-3 col-12 gradient-border project-1"
+              className="col-md-4 col-12 gradient-border project-1"
               target={"_blank"}
             >
               <div className="overlay"></div>
@@ -17,6 +17,13 @@ export default function About() {
             <a
               href="https://malek-finance.com/"
               className="col-md-4 col-12 gradient-border project-2"
+              target={"_blank"}
+            >
+              <div className="overlay"></div>
+            </a>
+            <a
+              href="http://water-sa.online/"
+              className="col-md-4 col-12 gradient-border project-4"
               target={"_blank"}
             >
               <div className="overlay"></div>
